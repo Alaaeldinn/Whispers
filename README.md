@@ -1,17 +1,24 @@
 # Whispers - PDF Chatting App
 
-Whispers is a cutting-edge PDF chatting application designed for real-time processing of multiple PDF documents, allowing users to engage in collaborative discussions and quality assurance (QA) of the extracted data.
+Welcome to Whispers, a powerful PDF chatting application leveraging the Mistral 7b model. This repository enables users to seamlessly process multiple PDF documents and engage in real-time discussions with the extracted content.
 
-## Features
+## Features:
 
-- **Real-time PDF Processing:** Upload and process multiple PDF documents simultaneously, enabling instant access to text content.
+1. **Mistral 7b Integration:**
+   - Harness the capabilities of the Mistral 7b model for efficient processing of PDF documents, ensuring accurate extraction of text content.
 
-- **Chat Functionality:** Engage in discussions, ask questions, and perform QA on the extracted data within the PDFs.
+2. **Multi-PDF Processing:**
+   - Upload and process multiple PDF documents simultaneously, providing a streamlined workflow for handling extensive data.
 
-- **Collaborative Environment:** Foster teamwork by allowing multiple users to contribute to the QA process in real time.
+3. **Real-time Chatting:**
+   - Foster collaborative discussions by enabling users to engage in real-time conversations about the content extracted from the processed PDFs.
 
-- **User-Friendly Interface:** Intuitive design for seamless navigation and ease of use.
+4. **User-Friendly Interface:**
+   - Navigate through the application effortlessly with an intuitive design, making it easy for users to interact and utilize the features seamlessly.
 
+## Getting Started:
 
-
-Happy chatting with Whispers! 📜💬
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/whispers.git
+  ```
