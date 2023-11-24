@@ -20,5 +20,5 @@ Welcome to Whispers, a powerful PDF chatting application leveraging the Mistral 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/whispers.git
+   git clone https://github.com/Alaaeldinn/whispers.git
   
